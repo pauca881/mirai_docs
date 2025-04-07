@@ -1,12 +1,39 @@
+
+
 Videos de formación Interna BI
  
 2024-10-14     08.37.11 
 
-Clientes externos y clientes internos
+Trabajamos con clientes externos y clientes internos.
 
-Clientes internos forma de proceder:
+Forma de proceder con cliente internos:
 
-Powerbi -> Areas de trabajo -> Mirai_dataset -> Cada uno tiene su dataset
+PowerBI -> Áreas de trabajo -> Mirai Dataset -> Cada uno tiene su dataset
 
 
+Estamos trabajando para sacar datasets desde git.
+
+En el área de trabajo “LIVE” tenemos los informes de los clientes, los de marketing, los de management y Nexia ( call center mirai ).
+
+Dentro de “LIVE”, en ALL_MIRAI_REPORTS, tenemos todos los informes que movemos dentro del departamento de BI. Un ejemplo de característica és:
+
+Hotel AM 4.0 Report -> Como de bien o mal lo están haciendo mis clientes?
+
+Tenemos filters, para comparar hoteles. Ejemplo de filtro para seleccionar:
+
+
+
+
+Podemos buscar por destinos de hoteles, como suprazonas.
+Por ejemplo, podemos filtrar los mejores hoteles de gran canarias:
+
+
+
+
+Entre muchos otros filtros, como los filtros propios de Mirai.
+
+Uno de nuestros objetivos, es recoger los datos de los hoteles, unificar los datos, y hacerlos más bonitos al cliente. 
+
+
+2024-10-14      08.59.55
 
